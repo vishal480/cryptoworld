@@ -3,7 +3,7 @@ const cryptoNewsHeaders={
    
         'X-BingApis-SDK': 'true',
         'X-RapidAPI-Host': 'bing-news-search1.p.rapidapi.com',
-        'X-RapidAPI-Key': '99ae4fd5f0msh9bb873548f60421p1ef677jsn18a48f0f386b'
+        'X-RapidAPI-Key': 'your rapid api key'
       
 }
 
